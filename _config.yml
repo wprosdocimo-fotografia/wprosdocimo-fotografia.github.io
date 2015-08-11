@@ -1,0 +1,28 @@
+# Site settings
+title: Wilson Luiz Prosdocimo
+email: wilson@wprosdocimo.com.br
+description: > # this means to ignore newlines until "baseurl:"
+  Blog pessoal de Wilson Luiz Prosdocimo, um blog com um pouco de tudo o que eu gosto...
+  fotografia, informática, poesia, culinaria, etc.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wprosdocimo.com.br" # the base hostname & protocol for your site
+twitter_username: wprosdocimo
+github_username:  wprosdocimo
+facebook_username: wprosdocimo
+
+# Build settings
+markdown: kramdown
+
+# Author Data
+author :
+  name : Wilson Luiz Prosdocimo
+  email : wilson@wprosdocimo.com.br
+  tumblr: wprosdocimo
+  flickr: wprosdocimo
+  github : wprosdocimo
+  repository: wprosdocimo.github.io
+  twitter : wprosdocimo
+  facebook: wprosdocimo
+  linkedin: wprosdocimo
+  googleplus: wprosdocimo
+  pinterest: wprosdocimo
