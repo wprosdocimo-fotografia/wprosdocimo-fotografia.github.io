@@ -1,9 +1,8 @@
 # Site settings
-title: WProsdocimo fotografia
+title: WProsdocimo Fotografia
 email: wilson@wprosdocimo.com.br
 description: > # this means to ignore newlines until "baseurl:"
-  Blog pessoal de Wilson Luiz Prosdocimo, um blog com um pouco de tudo o que eu gosto...
-  fotografia, informática, poesia, culinaria, etc.
+  Um blog de fotografia, ideias e experimentos...
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wprosdocimo.fot.br" # the base hostname & protocol for your site
 twitter_username: wprosdocimo
